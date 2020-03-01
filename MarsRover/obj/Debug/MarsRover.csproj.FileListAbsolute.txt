@@ -1,0 +1,6 @@
+C:\Users\furka\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.exe.config
+C:\Users\furka\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.exe
+C:\Users\furka\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.pdb
+C:\Users\furka\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.exe
+C:\Users\furka\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
